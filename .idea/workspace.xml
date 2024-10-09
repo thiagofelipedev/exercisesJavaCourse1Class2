@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d2c7c86-0837-407c-848e-d0a7d92628fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challengeJavaCourse1Class2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertDollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DescontoPreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductxQuant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/charStringPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intToDouble.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2n1uztJC2V2oSeumgbNttLEVPdx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConvertDollar.executor": "Run",
+    "Application.DesafioTemperatura.executor": "Run",
+    "Application.DescontoPreco.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.ProductxQuant.executor": "Run",
+    "Application.charStringPrint.executor": "Run",
+    "Application.intToDouble.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tfofe/Desktop/JavaProjects-Alura/challengeJavaCourse1Class2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DescontoPreco">
+    <configuration name="ConvertDollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertDollar" />
+      <module name="challengeJavaCourse1Class2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioTemperatura" />
+      <module name="challengeJavaCourse1Class2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DescontoPreco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DescontoPreco" />
+      <module name="challengeJavaCourse1Class2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Media" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Media" />
+      <module name="challengeJavaCourse1Class2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductxQuant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductxQuant" />
+      <module name="challengeJavaCourse1Class2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DescontoPreco" />
+        <item itemvalue="Application.ConvertDollar" />
+        <item itemvalue="Application.ProductxQuant" />
+        <item itemvalue="Application.DesafioTemperatura" />
+        <item itemvalue="Application.Media" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2c7c86-0837-407c-848e-d0a7d92628fe" name="Changes" comment="" />
+      <created>1728153173124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728153173124</updated>
+    </task>
+    <servers />
+  </component>
+</project>
